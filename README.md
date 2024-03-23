@@ -1,0 +1,1 @@
+Dataset: The primary dataset for this analysis is sourced from the International Renewable Energy Agency (IRENA). It includes installed renewable electricity capacity (MW) by Region/country/area, Technology, and Year. The dataset is licensed for public use and downloaded in CSV format.
